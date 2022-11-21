@@ -1,0 +1,74 @@
+.toggleMenu {
+    transform: rotate(90deg);
+}
+
+.toggleMenu .toggleIcon {
+    color: #fff;
+    font-size: 30px !important;
+}
+
+.MuiBox-root.css-1t6c9ts a {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.MuiBox-root.css-1lvtzne {
+    width: 120px;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+    background-color: #2a9fe4 !important;
+}
+
+.imgLogoDrawer {
+    height: 30px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+
+.IconButton_ChevronRightIcon {
+    position: fixed !important;
+    color: white !important;
+}
+
+/* /////////////////// */
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    background-color: #333333f1;
+}
+
+.css-1o6fhzm-MuiButtonBase-root-MuiMenuItem-root.Mui-selected {
+    background-color: #9854CB !important;
+    border-radius: 20px;
+}
+
+button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-sizeMedium.ant-dropdown-trigger.css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+    color: #fff;
+}
+
+.DropdownTB{
+    border-radius: 20px;
+}
+
+.css-19r6kue-MuiContainer-root{
+    padding-left: 0 !important;
+    padding-right: 5px !important;
+}
+
+.MenuItemFontSize {
+    font-size: 0.8571428571428571rem !important;
+}
+
+.logoNavbar{
+    height: 50px;
+}
+
+@media (max-width: 1024px) {
+    .MenuItemFontSize {
+        font-size: 10px !important;
+    }
+    .logoNavbar{
+        height: 40px;
+    }
+}
